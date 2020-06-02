@@ -1,0 +1,3 @@
+typeof undefined;
+
+typeof alert;
